@@ -4,7 +4,7 @@
 * Install Firebase CLI
 	* Follow <a href="https://firebase.google.com/docs/cli">Google's Official Guide</a>
 	* Must have a GCP account
-	* Configure credentials in ```pubspec.yaml```
+	* Configure credentials in ```/web/index.html```
 
 * Install Flutter Framework
 	* Follow <a href="https://flutter.dev/docs/get-started/install">Google's Official Instruction</a>
