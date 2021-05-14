@@ -1,9 +1,22 @@
-<img src="img/preview.png">
+## Baket: A Contactless Shopping Experience
 
-# gentelella_flutter
-[![Codemagic build status](https://api.codemagic.io/apps/5d8b2a4f45c4dc0011f7fc38/5d8b2a4f45c4dc0011f7fc37/status_badge.svg)](https://codemagic.io/apps/5d8b2a4f45c4dc0011f7fc38/5d8b2a4f45c4dc0011f7fc37/latest_build)
+## To Run Code Instruction
+* Install Firebase CLI
+	* Follow <a href="https://firebase.google.com/docs/cli">Google's Official Guide</a>
+	* Must have a GCP account
+	* Configure credentials in ```pubspec.yaml```
 
-A responsive Flutter application using Material Design that demonstrates how to handle the navigation drawer. For a more details explanation about how this built, please see my blog post at https://dexterx.dev/creating-a-responsive-flutter-application-with-a-navigation-drawer/
+* Install Flutter Framework
+	* Follow <a href="https://flutter.dev/docs/get-started/install">Google's Official Instruction</a>
+	* Clone this repository
+	* Command ```flutter run```
 
-Note that this was built using Flutter SDK version 1.10.5 that at time of writing was on the dev channel.
-See it running online at https://responsive-navigationdrawer-demo.codemagic.app. It is recommended that you use Chrome as there may be issues on other browsers, such as icons not rendering properly
+## Project Features
+* Manager authentication
+<img src="img/Manager_Login.png">
+* Store inventory management
+<img src="img/Manager_Inventory.png">
+<img src="img/Manager_Add.png">
+* View the store’s transaction history
+<img src="img/Manager_Transaction.png">
+* Inventory-based alerting 
