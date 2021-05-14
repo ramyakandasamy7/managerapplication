@@ -1,6 +1,7 @@
-## Baket: A Contactless Shopping Experience
+# Baket: A Contactless Shopping Experience
+## Store Manager's Web Application
 
-## To Run Code Instruction
+### To Run Code Instruction
 * Install Firebase CLI
 	* Follow <a href="https://firebase.google.com/docs/cli">Google's Official Guide</a>
 	* Must have a GCP account
@@ -11,7 +12,7 @@
 	* Clone this repository
 	* Command ```flutter run```
 
-## Project Features
+### Project Features
 * Manager authentication
 <img src="img/Manager_Login.png">
 * Store inventory management
